@@ -1,0 +1,31 @@
+{
+  "title": "Hizmetlerimiz",
+  "description": "<p>Taşınma ihtiyaçlarınız için planlama, paketleme, taşıma ve kurulum adımlarını tek ekip yönetir; her rota için net prosedür uygularız.</p>",
+  "services": [
+    {
+      "title": "Evden Eve Nakliyat",
+      "description": "<p>Eşyalarınızı sınıflandırır, paketler, güvenli nakliye ile teslim ederiz.</p>"
+    },
+    {
+      "title": "Sözleşmeli Evden Eve Nakliyat",
+      "description": "<p>Sözleşme maddeleriyle tarih, ücret ve sorumluluklar açık olur.</p>"
+    },
+    {
+      "title": "Sigortalı Evden Eve Nakliyat",
+      "description": "<p>Hasar riskine karşı poliçe düzenler, teslimi tutanakla yaparız.</p>"
+    },
+    {
+      "title": "Asansörlü Evden Eve Nakliyat",
+      "description": "<p>Dış cephe asansörüyle hızlı, kontrollü yükleme boşaltma sağlarız.</p>"
+    },
+    {
+      "title": "Ofis Taşımacılığı",
+      "description": "<p>Arşiv ve cihazları numaralar, planlı taşıma ile kesintiyi azaltırız.</p>"
+    },
+    {
+      "title": "Eşya Depolama",
+      "description": "<p>Nem kontrollü depoda, etiketli raflarda düzenli şekilde saklarız.</p>"
+    }
+  ],
+  "footer": "<p>Her taşınmada hamallık bedeli, kat farkı ve rulo ambalaj ihtiyacı önceden belirlenir. Ekibimiz kolileme, mobilya söküm ve montajını aynı plan içinde yürütür. Balıkesir varışında oda etiketleriyle yerleşim hızlanır; kırılacaklar köpük koruma ile ayrılır. Teslim sonunda kontrol listesi ve imzalı tutanakla iş kapanır. Araç içi sabitleme kayışları darbeyi azaltır.</p>"
+}

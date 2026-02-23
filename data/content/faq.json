@@ -1,0 +1,46 @@
+{
+  "title": "İstanbul'dan Balıkesir'e Nakliye Sürecinde Sık Sorulan Sorular",
+  "description": "<p>İstanbul Balıkesir hattında nakliyat sürecini netleştirir. Paketleme, sigorta, ücret kalemleri ve teslim prosedürü burada açık yanıt bulur.</p>",
+  "faqs": [
+    {
+      "q": "İstanbul’dan Balıkesir’e taşınırken ücretsiz ekspertiz nasıl yapılır?",
+      "a": "Ekspertiz ekibi oda sayısı, eşya yoğunluğu, kat ve asansör durumunu kaydeder. Hassas parçaları listeler, ambalaj türünü seçer. Aynı gün içinde yazılı teklif paylaşır."
+    },
+    {
+      "q": "Eşya depolama hizmeti alırken depo koşulları nasıl kontrol edilir?",
+      "a": "Depoda nem ölçümü, kilit sistemi ve kamera kayıt politikası sorulur. Raf ve palet düzeni görülür. Süre, erişim şartları ve sorumluluklar sözleşmede yazılı olmalı."
+    },
+    {
+      "q": "Şehirlerarası evden eve nakliyat ücretleri hangi kalemlerden oluşur?",
+      "a": "Ücret; mesafe, araç tipi, işçilik, ambalaj ve ek hizmetlerden oluşur. Kat, park ve asansör durumuna göre süre artar. Poliçe bedeli teminat tutarına bağlı hesaplanır."
+    },
+    {
+      "q": "Ofis taşımacılığı sırasında veri güvenliği nasıl korunur?",
+      "a": "Cihazlar antistatik ambalajla sarılır, seri numarasıyla etiketlenir. Evraklar kilitli kutulara alınır. Kurulum ekibi aynı gün bağlantıları toplar, teslim listesiyle kontrol eder."
+    },
+    {
+      "q": "Sigortalı ev taşıma yaptırırken poliçe kapsamı neleri içerir?",
+      "a": "Poliçe genelde taşıma kaynaklı fiziksel hasarı teminat altına alır. Hasar için fotoğraf, tutanak ve fatura istenir. Bildirimi teslimden sonra genellikle 24-72 saat içinde yaparsınız."
+    },
+    {
+      "q": "Sözleşmeli ev taşıma sürecinde hangi maddeler bulunmalıdır?",
+      "a": "Sözleşmede iş tanımı, başlangıç-bitiş adresi, ekipman ve ücret kalemleri yer alır. Gecikme ve iptal şartları net olur. Ek hizmetler ayrı satırda belirtilir, imza ile kesinleşir."
+    },
+    {
+      "q": "Asansörlü ev taşıma hangi binalarda kullanılabilir?",
+      "a": "Uygun cephe, sağlam zemin ve park alanı gerekir. Yönetim bilgilendirilir, giriş-çıkış güvenliği şeritlenir. Gerekli durumlarda izin süreçlerini sizden alınan bilgilerle hızlandırırız."
+    },
+    {
+      "q": "Şehiriçi evden eve nakliyat ile şehirlerarası ev taşıma hizmeti arasında operasyon farkı nedir?",
+      "a": "Şehiriçinde trafik ve park önceliklidir, süre daha kısa olur. Şehirlerarası taşımada sabitleme, mola ve rota güvenliği öne çıkar. Teslim randevusu yol durumuna göre saat aralığıyla verilir."
+    },
+    {
+      "q": "Kırılacak eşyalar nasıl paketlenir?",
+      "a": "Önce köpük ve balonlu katman uygulanır, sonra kraftla sarılır. Koli üzerine oda, içerik ve yön işareti yazılır. Araçta kayış ve kaydırmaz zeminle sabitleme yapılır."
+    },
+    {
+      "q": "İstanbul Balıkesir hattında taşınma tarihi seçerken nelere dikkat etmeliyim?",
+      "a": "Tarih seçerken bina yönetimi kuralları ve asansör saatleri netleşmeli. Yoğun günlerde araç bulunurluğu azalır, fiyat artabilir. Erken rezervasyonla uygun slot seçer, hazırlığı risksiz planlarsınız."
+    }
+  ]
+}

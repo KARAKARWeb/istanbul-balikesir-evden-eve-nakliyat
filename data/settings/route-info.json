@@ -1,0 +1,14 @@
+{
+  "title": "İstanbul'dan Balıkesir ve Tüm İlçelerine Rota Bilgileri",
+  "description": "Haritadaki güzergâha göre İstanbul çıkışını planlar, ortalama yol süresini paylaşırız; Balıkesir varışında trafik ve mola senaryolarına hazır oluruz.",
+  "originCoords": "İstanbul",
+  "destinationCoords": "Balıkesir",
+  "fromCity": "İstanbul",
+  "toCity": "Balıkesir",
+  "distance": 284,
+  "duration": 4.5,
+  "basePrice": 1500,
+  "sourceCity": "İstanbul",
+  "targetCity": "Balıkesir",
+  "priceMin": 14450
+}
